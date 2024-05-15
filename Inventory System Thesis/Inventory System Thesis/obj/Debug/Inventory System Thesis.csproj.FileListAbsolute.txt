@@ -1,0 +1,14 @@
+C:\Users\janki\source\repos\Inventory System Thesis\Inventory System Thesis\obj\Debug\Inventory System Thesis.csproj.AssemblyReference.cache
+C:\Users\janki\source\repos\Inventory System Thesis\Inventory System Thesis\obj\Debug\Inventory_System_Thesis.LogIn.resources
+C:\Users\janki\source\repos\Inventory System Thesis\Inventory System Thesis\obj\Debug\Inventory_System_Thesis.Properties.Resources.resources
+C:\Users\janki\source\repos\Inventory System Thesis\Inventory System Thesis\obj\Debug\Inventory System Thesis.csproj.GenerateResource.cache
+C:\Users\janki\source\repos\Inventory System Thesis\Inventory System Thesis\obj\Debug\Inventory System Thesis.csproj.CoreCompileInputs.cache
+C:\Users\janki\source\repos\Inventory System Thesis\Inventory System Thesis\bin\Debug\Inventory System Thesis.exe.config
+C:\Users\janki\source\repos\Inventory System Thesis\Inventory System Thesis\bin\Debug\Inventory System Thesis.exe
+C:\Users\janki\source\repos\Inventory System Thesis\Inventory System Thesis\bin\Debug\Inventory System Thesis.pdb
+C:\Users\janki\source\repos\Inventory System Thesis\Inventory System Thesis\obj\Debug\Inventory System Thesis.exe
+C:\Users\janki\source\repos\Inventory System Thesis\Inventory System Thesis\obj\Debug\Inventory System Thesis.pdb
+C:\Users\janki\source\repos\Inventory System Thesis\Inventory System Thesis\obj\Debug\Inventory_System_Thesis.CustomerButton.resources
+C:\Users\janki\source\repos\Inventory System Thesis\Inventory System Thesis\obj\Debug\Inventory_System_Thesis.MainForm.resources
+C:\Users\janki\source\repos\Inventory System Thesis\Inventory System Thesis\obj\Debug\Inventory_System_Thesis.UserForm.resources
+C:\Users\janki\source\repos\Inventory System Thesis\Inventory System Thesis\obj\Debug\Inventory_System_Thesis.UserModuleForm.resources
